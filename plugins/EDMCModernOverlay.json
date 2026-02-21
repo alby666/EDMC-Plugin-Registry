@@ -1,20 +1,20 @@
 
   {
     "pluginName": "EDMCModernOverlay",
-    "pluginVer": "0.7.6",
+    "pluginVer": "0.7.7",
     "pluginZip": "",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": ["SweetJonnySauce"],
     "pluginMainLink": "https://github.com/SweetJonnySauce/EDMCModernOverlay",
-    "pluginLastUpdate": "2026-01-03",
+    "pluginLastUpdate": "2026-02-21",
     "pluginDirName": "EDMCModernOverlay",
     "pluginCategory": ["Utility", "Other"],
     "pluginDesc": "Display plugin overlays in-game",
-    "pluginLastTestedEDMC": "6.0.0",
+    "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": ["PyQt6","Linux dependencies (See project Wiki)", "Other plugins with overlay support"],
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
-    "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.7.6/vt-transparency.html",
+    "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.7.7/vt-transparency.html",
     "pluginHash": ""
     }
