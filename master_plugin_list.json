@@ -76,7 +76,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd",
-    "pluginStars": "33"
+    "pluginStars": "34"
   },
   {
     "pluginName": "EDMC-LogEventMiner",
@@ -205,7 +205,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "f6719ccb780247fc5a721eb56b251b81be93df4659d0215c81895574f24cff32",
-    "pluginStars": "19"
+    "pluginStars": "21"
   },
   {
     "pluginName": "EDMC-PowerPlayProgress",
@@ -259,7 +259,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.7.7/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "39"
+    "pluginStars": "40"
   },
   {
     "pluginName": "GalaxyGPS",
@@ -312,7 +312,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "c43a11a9b56e534c419c2e799ae503deb17021d33aa288677b2d47fcd7ddd002",
-    "pluginStars": "8"
+    "pluginStars": "9"
   },
   {
     "pluginName": "LandingPad",
@@ -337,7 +337,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
     "pluginHash": "4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
-    "pluginStars": "43"
+    "pluginStars": ""
   },
   {
     "pluginName": "UpdateTD",
@@ -361,7 +361,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/43ea695110fb4516de7e16e0c44f039dbb1fff717b22da8c10eba5139deeaf44",
     "pluginHash": "43ea695110fb4516de7e16e0c44f039dbb1fff717b22da8c10eba5139deeaf44",
-    "pluginStars": "3"
+    "pluginStars": ""
   },
   {
     "pluginName": "Cargo Manifest",
