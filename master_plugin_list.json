@@ -76,7 +76,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd",
-    "pluginStars": "34"
+    "pluginStars": "35"
   },
   {
     "pluginName": "EDMC-LogEventMiner",
@@ -230,7 +230,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "1f15faa47a7c8521fffd24058cc583d57cbd054a43f7971d747255f9a2552e4c",
-    "pluginStars": "10"
+    "pluginStars": "11"
   },
   {
     "pluginName": "EDMCModernOverlay",
@@ -337,7 +337,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
     "pluginHash": "4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
-    "pluginStars": ""
+    "pluginStars": "44"
   },
   {
     "pluginName": "UpdateTD",
@@ -361,7 +361,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/43ea695110fb4516de7e16e0c44f039dbb1fff717b22da8c10eba5139deeaf44",
     "pluginHash": "43ea695110fb4516de7e16e0c44f039dbb1fff717b22da8c10eba5139deeaf44",
-    "pluginStars": ""
+    "pluginStars": "3"
   },
   {
     "pluginName": "Cargo Manifest",
