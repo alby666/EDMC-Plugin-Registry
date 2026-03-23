@@ -1,15 +1,15 @@
 [
   {
     "pluginName": "Architect Tracker",
-    "pluginVer": "1.3",
-    "pluginZip": "https://github.com/kfpopeye/EliteDangerous/archive/refs/tags/v1.3.zip",
+    "pluginVer": "1.4",
+    "pluginZip": "https://github.com/kfpopeye/EliteDangerous/archive/refs/tags/v1.4.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "kf popeye"
     ],
     "pluginMainLink": "https://github.com/kfpopeye/EliteDangerous",
-    "pluginLastUpdate": "2026-02-23",
+    "pluginLastUpdate": "2026-03-20",
     "pluginDirName": "ArchitectTracker",
     "pluginCategory": [
       "Colonisation"
@@ -48,7 +48,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/aussig/BGS-Tally/refs/heads/develop/assets/logo_bgstally_100x67.png",
     "pluginVT": "https://www.virustotal.com/gui/url/eaf0b89be98a16d0791da383da6fd12c4f585ff43b15cc84bb147350f3092b4a",
     "pluginHash": "339f8ca25efb76366075c821a0a9b9abf11ab68e73c355761378dbcecf2bdbbd",
-    "pluginStars": "51"
+    "pluginStars": "52"
   },
   {
     "pluginName": "EDMC-BioScan",
@@ -157,27 +157,27 @@
   },
   {
     "pluginName": "EDMC-NeutronDancer",
-    "pluginVer": "1.7.0",
-    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.7.0/EDMC-NeutronDancer.zip",
+    "pluginVer": "1.8.0",
+    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.8.0/EDMC-NeutronDancer.zip",
     "autoUpdateEnabled": true,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "dwomble"
     ],
     "pluginMainLink": "https://github.com/dwomble/EDMC-NeutronDancer",
-    "pluginLastUpdate": "2026-02-12",
+    "pluginLastUpdate": "2026-03-09",
     "pluginDirName": "EDMC-NeutronDancer",
     "pluginCategory": [
       "Navigation",
       "Exploration"
     ],
-    "pluginDesc": "Simplifies and automates plotting and following Spansh Galaxy, Neutron, and other routes.",
-    "pluginLastTestedEDMC": "6.1.0",
+    "pluginDesc": "The easiest way to use Spansh' sophisticated Galaxy Plotter from within EDMC. Supports Galaxy, Neutron, and other Spansh routes. Includes overlay, hotkey, and chat command support along with jump statistics, cooldown timers, and refuel notifications.",
+    "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": [],
     "pluginLicense": "MIT License",
     "pluginIcon": "",
-    "pluginVT": "https://www.virustotal.com/gui/file/b1f6fb98de82c69f4ca5fc6d83764c3f94481cf0f895ddf7537653254e611978/details",
-    "pluginHash": "b1f6fb98de82c69f4ca5fc6d83764c3f94481cf0f895ddf7537653254e611978",
+    "pluginVT": "https://www.virustotal.com/gui/url/2aa7e21570b0a164c9c7895a0fb011a238d3a1561cd90767ae19640ade877cf9/details",
+    "pluginHash": "2aa7e21570b0a164c9c7895a0fb011a238d3a1561cd90767ae19640ade877cf9",
     "pluginStars": "11"
   },
   {
@@ -230,11 +230,11 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "1f15faa47a7c8521fffd24058cc583d57cbd054a43f7971d747255f9a2552e4c",
-    "pluginStars": "11"
+    "pluginStars": "12"
   },
   {
     "pluginName": "EDMCModernOverlay",
-    "pluginVer": "0.7.7",
+    "pluginVer": "0.8.0",
     "pluginZip": "",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
@@ -242,7 +242,7 @@
       "SweetJonnySauce"
     ],
     "pluginMainLink": "https://github.com/SweetJonnySauce/EDMCModernOverlay",
-    "pluginLastUpdate": "2026-02-21",
+    "pluginLastUpdate": "2026-03-14",
     "pluginDirName": "EDMCModernOverlay",
     "pluginCategory": [
       "Utility",
@@ -257,7 +257,7 @@
     ],
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
-    "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.7.7/vt-transparency.html",
+    "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.8.0/vt-transparency.html",
     "pluginHash": "",
     "pluginStars": "40"
   },
@@ -337,7 +337,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
     "pluginHash": "4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
-    "pluginStars": "44"
+    "pluginStars": "45"
   },
   {
     "pluginName": "UpdateTD",
