@@ -21,7 +21,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "",
-    "pluginStars": "5"
+    "pluginStars": "6"
   },
   {
     "pluginName": "BGS-Tally",
@@ -48,7 +48,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/aussig/BGS-Tally/refs/heads/develop/assets/logo_bgstally_100x67.png",
     "pluginVT": "https://www.virustotal.com/gui/url/eaf0b89be98a16d0791da383da6fd12c4f585ff43b15cc84bb147350f3092b4a",
     "pluginHash": "339f8ca25efb76366075c821a0a9b9abf11ab68e73c355761378dbcecf2bdbbd",
-    "pluginStars": "52"
+    "pluginStars": "53"
   },
   {
     "pluginName": "EDMC-BioScan",
@@ -106,7 +106,7 @@
   },
   {
     "pluginName": "EDMC-Mining-Analytics",
-    "pluginVer": "0.6.0",
+    "pluginVer": "1.0.0",
     "pluginZip": "https://github.com/SweetJonnySauce/EDMC-Mining-Analytics/releases/download/0.6.0/EDMC-Mining-Analytics-0.6.0.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
@@ -114,7 +114,7 @@
       "SweetJonnySauce"
     ],
     "pluginMainLink": "https://github.com/SweetJonnySauce/EDMC-Mining-Analytics",
-    "pluginLastUpdate": "2026-01-29",
+    "pluginLastUpdate": "2026-03-29",
     "pluginDirName": "EDMC-Mining-Analytics",
     "pluginCategory": [
       "Mining"
@@ -124,9 +124,9 @@
     "pluginRequirements": [],
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "",
-    "pluginVT": "https://www.virustotal.com/gui/file/997e178c8a0968346e37efb2bc29f9f73c308c247a595355b3279f3cc93b9924?nocache=1",
+    "pluginVT": "https://www.virustotal.com/gui/url/0b86225d410a7206430b2e341e5d3bb1cccff202b05b2cba3846fe62427f87c6?nocache=1",
     "pluginHash": "",
-    "pluginStars": "19"
+    "pluginStars": "20"
   },
   {
     "pluginName": "EDMC-NavRoute",
