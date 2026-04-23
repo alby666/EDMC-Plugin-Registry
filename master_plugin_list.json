@@ -48,7 +48,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/aussig/BGS-Tally/refs/heads/develop/assets/logo_bgstally_100x67.png",
     "pluginVT": "https://www.virustotal.com/gui/url/eaf0b89be98a16d0791da383da6fd12c4f585ff43b15cc84bb147350f3092b4a",
     "pluginHash": "339f8ca25efb76366075c821a0a9b9abf11ab68e73c355761378dbcecf2bdbbd",
-    "pluginStars": "53"
+    "pluginStars": "54"
   },
   {
     "pluginName": "EDMC-BioScan",
@@ -230,7 +230,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "1f15faa47a7c8521fffd24058cc583d57cbd054a43f7971d747255f9a2552e4c",
-    "pluginStars": "12"
+    "pluginStars": "13"
   },
   {
     "pluginName": "EDMCHotkeys",
